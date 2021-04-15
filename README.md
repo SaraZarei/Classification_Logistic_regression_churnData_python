@@ -1,4 +1,4 @@
-# Classification_Logistic_regression_churnData_python
+# Prediction-Model-for-a-Telecommunication-Company-Logistic-regression-python
 ## problem definition
 A telecommunications company is concerned about the number of customers leaving their business for competitors. They need to understand who is leaving. we want to find out who is leaving and why. we will create a model for a telecommunication company, to predict when its customers will leave for a competitor, so that they can take some action to retain the customers.
 ## Dataset
